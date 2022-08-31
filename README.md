@@ -1,14 +1,23 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
-First project created via GitPod
-
+First project created via GitPod for the Diploma in Web Application Development.
+<br><br>
+Created a full website to show the logos with Wikipedia pages for each of the technologies used throughout the
+different modules on the course.
+<br><br>
+HTML5, CSS3, JavaScript, GitPod, Git, GitHub <br>
+Python, Flask, MongoDb, MySQL <br>
+Django, Heruko, React
+<br><br>
 <a href="https://gitpod.io/#https://github.com/janet-dev/CI-full-template">
   <img
     src="https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod"
     alt="Contribute with Gitpod"
   />
 </a>
+<br><br>
+
 
 Welcome!
 
