@@ -3,7 +3,7 @@
 
 First project created via GitPod
 
-<a href="https://gitpod.io/#<https://github.com/janet-dev/CI-full-template>">
+<a href="https://gitpod.io/#https://github.com/janet-dev/CI-full-template">
   <img
     src="https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod"
     alt="Contribute with Gitpod"
